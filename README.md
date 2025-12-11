@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Cătălin Bîtca
+# 👋 Hey there, I’m Cătălin
 
 Welcome to my little corner of GitHub!
 I love building things for the web, from small experiments to full-scale apps that actually make a difference.
